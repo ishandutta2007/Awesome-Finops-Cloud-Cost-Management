@@ -124,7 +124,7 @@ Self-hosted, transparent, and community-driven FinOps solutions 💻. Deploy the
 
 ### 🏆 Open-Source FinOps Leaderboard
 
-*Sorted descending by GitHub Stars_Count ⭐.*
+*Sorted descending by GitHub_Stars_Count ⭐.*
 
 | Repository 📦 | GitHub_Stars ⭐ | Stack 🛠️ | Primary Focus 🔍 | Best For 🎯 |
 | :--- | :---: | :--- | :--- | :--- |
