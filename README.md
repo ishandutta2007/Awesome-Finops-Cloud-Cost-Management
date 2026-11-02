@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Finops-Cloud-Cost-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Finops-Cloud-Cost-Management?style=social&color=white" alt="Stars Badge"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Finops-Cloud-Cost-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Finops-Cloud-Cost-Management?style=social&color=white" alt="Stars_Badge"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Finops-Cloud-Cost-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Finops-Cloud-Cost-Management?style=social&color=white" alt="Forks Badge"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Finops-Cloud-Cost-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
@@ -124,9 +124,9 @@ Self-hosted, transparent, and community-driven FinOps solutions 💻. Deploy the
 
 ### 🏆 Open-Source FinOps Leaderboard
 
-*Sorted descending by GitHub star count ⭐.*
+*Sorted descending by GitHub Stars_Count ⭐.*
 
-| Repository 📦 | GitHub Stars ⭐ | Stack 🛠️ | Primary Focus 🔍 | Best For 🎯 |
+| Repository 📦 | GitHub_Stars ⭐ | Stack 🛠️ | Primary Focus 🔍 | Best For 🎯 |
 | :--- | :---: | :--- | :--- | :--- |
 | [**infracost/infracost**](https://github.com/infracost/infracost) 💰 | [![Infracost Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers) | Go / CLI / Terraform | Shift-Left IaC Cost Prevention | Terraform PR cost diffs & budget guardrails |
 | [**opencost/opencost**](https://github.com/opencost/opencost) ☸️ | [![OpenCost Stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers) | Go / Prometheus / K8s | CNCF Kubernetes Cost Allocation | Real-time container pod-level cost attribution |
